@@ -1,2 +1,12 @@
+# Resolved .gitignore
+
 node_modules/
 .env
+
+# Add any other common ignores from the remote side here, if needed
+/dist
+/build
+
+# Or keep it simple and just include your essential ones:
+# node_modules/
+# .env
